@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Pavipragu
-- 👀 I’m interested in learning R programming
-- 🌱 I’m currently learning to code in R for my project in metabolite annotation
-- 💞️ I’m looking to collaborate on data analysis in metabolomics
 - 📫 How to reach me pavithrasmkp@gmail.com
 
 <!---
